@@ -1,0 +1,19 @@
+body, html{
+	margin:0;
+	padding:0;
+}
+
+#headtext{
+			text-align: center;
+
+}
+.navbar{
+	background-color: black;
+	color:white;
+}
+img{
+	width:200px;
+	border:solid black 2px;
+	background-color: white;
+	box-shadow: 4px 3px 0px #49505740
+}
